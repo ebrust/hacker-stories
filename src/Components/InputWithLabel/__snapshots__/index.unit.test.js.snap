@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`InputWithLabel renders snapshot 1`] = `
+Array [
+  <label
+    className="label"
+    htmlFor="1"
+  >
+    Input with Label
+  </label>,
+  " ",
+  <input
+    className="input"
+    id="1"
+    type="text"
+    value="a"
+  />,
+]
+`;
